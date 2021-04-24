@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leizongmin&show_icons=true&&line_height=20&theme=solarized-light&layout=compact&hide=contribs,prs&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leizongmin&show_icons=true&theme=radical&layout=solarized-light&hide=html,css&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leizongmin&show_icons=true&theme=solarized-light&layout=compact&hide=html,css&hide_border=true)
